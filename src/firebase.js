@@ -6,7 +6,7 @@ const firebaseApp = firebase.initializeApp(
     {
         apiKey: "AIzaSyCOg3dQvuMkaOoTSkircfdUPjRHtVI72nE",
 
-  authDomain: "firechat-365e7.firebaseapp.com",
+  authDomain: "s0hamn.github.io",
 
   projectId: "firechat-365e7",
 
