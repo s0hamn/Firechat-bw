@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Firechat-bw/static/css/main.efe89506.css",
+    "main.js": "/Firechat-bw/static/js/main.baabb2d7.js",
+    "index.html": "/Firechat-bw/index.html",
+    "main.efe89506.css.map": "/Firechat-bw/static/css/main.efe89506.css.map",
+    "main.baabb2d7.js.map": "/Firechat-bw/static/js/main.baabb2d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe89506.css",
+    "static/js/main.baabb2d7.js"
+  ]
+}
